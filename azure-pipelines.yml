@@ -14,7 +14,7 @@ variables:
 
 steps:
 
-# 1. Instalar .NET 9
+# 1. Instalar .NET 9..
 - task: UseDotNet@2
   displayName: 'Instalar .NET 9 SDK'
   inputs:
